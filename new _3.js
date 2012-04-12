@@ -1085,4 +1085,4 @@ function outputDate(date) {                             // толковый па
     outputDate( [2000,0,1] ); // 01.01.00
     outputDate( new Date(2000,0,1) ); // 01.01.00
 
-
+13test
